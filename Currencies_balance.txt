@@ -1,0 +1,4 @@
+Euro: 100 EUR
+Dollar: 200 USD
+Zloty: 500 PLN
+Euro (after operation): 75.58 EUR
